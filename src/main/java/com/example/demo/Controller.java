@@ -9,6 +9,6 @@ public class Controller {
 
     @PostConstruct
     public void test(){
-        System.out.println("ciao deploy");
+        System.out.println("ciao deploy 2");
     }
 }
